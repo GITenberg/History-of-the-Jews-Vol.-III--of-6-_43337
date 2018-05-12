@@ -1,0 +1,32 @@
+_repo: History-of-the-Jews-Vol.-III--of-6-_43337
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 43337-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Graetz, Heinrich
+    aliases:
+    - Graetz, Heinrich Hirsch
+    - Graetz, H. (Heinrich)
+    - Grätz, Hirsch
+    - Graetz, Hirsch
+    - Gratz, Hirsch
+    birthdate: 1817
+    deathdate: 1891
+    gutenberg_agent_id: '42001'
+    url: http://www.gutenberg.org/2009/agents/42001
+description: ''
+gutenberg_issued: '2013-07-28'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '43337'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Jews -- History'
+- !lcc 'DS'
+title: History of the Jews, Vol. 3 (of 6)
+url: http://www.gutenberg.org/ebooks/43337
